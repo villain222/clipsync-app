@@ -1,4 +1,4 @@
-# clipsync
+# clipsync - Uses standard keyboard Shortcuts!!!
 
 A tiny clipboard-sync tool for Windows, macOS and Linux. Copy text on one machine on your local network and it shows up on the clipboard of every other machine running clipsync **with the same PIN**.
 
